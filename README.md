@@ -20,5 +20,11 @@ chatting_program using socket & multiThread
 
 
 
-
+### ex
+- 1. 서버 먼저 메세지 입력
+  - ![화면 캡처 2021-12-17 032440](https://user-images.githubusercontent.com/62214428/146427804-e4ccfbe5-1964-4f5a-be7b-71cb96cd0132.png)
+- 2. 클라이언트 화면 및 답장 send
+  - ![화면 캡처 2021-12-17 032501](https://user-images.githubusercontent.com/62214428/146427823-21d17416-0da0-4aa3-bc20-152acfa7310e.png)
+- 3. 서버에서 클라이언트가 보낸 메세지 확인
+  - ![화면 캡처 2021-12-17 032513](https://user-images.githubusercontent.com/62214428/146427863-a16d2c85-6b82-4ddd-823a-95ce68b1b64a.png)
 
