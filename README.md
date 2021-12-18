@@ -1,6 +1,8 @@
 # chatting_program_server
 chatting_program using socket & multiThread
 - 클라이언트 : https://github.com/skarltjr/chatting_program_client
+- 다대다 버전(단톡) : https://github.com/skarltjr/Multi-chatting-program
+
 
 ### 개요
 - socket을 활용한 클라이언트,서버 1:1 채팅 프로그램
